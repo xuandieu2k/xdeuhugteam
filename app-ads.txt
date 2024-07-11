@@ -1,0 +1,7 @@
+# app-ads.txt file for xdeuhugteam
+# Declare your authorized sellers here
+
+# Google AdMob
+google.com, pub-7202675250401590, DIRECT, f08c47fec0942fa0
+
+# Add entries for each ad network you work with
